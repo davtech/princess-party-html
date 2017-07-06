@@ -1,0 +1,17 @@
+{
+  "name": "princess-party",
+  "homepage": "https://github.com/davtech/princess-party-html",
+  "authors": [
+    "David Bastos <davtechh@gmail.com>"
+  ],
+  "description": "html para landing page",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
